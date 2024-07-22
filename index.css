@@ -43,17 +43,17 @@ footer{
 
     .text-container{
         margin-top: 60px;
+        border: 1px solid red;
        
     }
 
     .text-container .welcome{
-        font-size: 1.5rem;
-        /* margin-right: 30px; */
-        
+        font-size: 40px;
+       
     }
 
     .text-container,p{
-        font-size: 10px;
+        font-size: 13px;
         text-align: center;
         
     }
